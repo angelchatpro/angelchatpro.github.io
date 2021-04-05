@@ -8,11 +8,10 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-    apiKey: "AIzaSyDzZxk913MUi3ESjLwNK14W0t1c6HgUOWE",
-    authDomain: "bdfalumnox.firebaseapp.com",
-    projectId: "bdfalumnox",
-    storageBucket: "bdfalumnox.appspot.com",
-    messagingSenderId: "1002536188546",
-    appId: "1:1002536188546:web:cfa9fb33aec119e7fc529b",
-    measurementId: "G-5HHSLWQ24J"
+   apiKey: "AIzaSyABAS1rDJUaggUL_7UVQ5sx10ba5x-_bKM",
+    authDomain: "angelchat41m.firebaseapp.com",
+    projectId: "angelchat41m",
+    storageBucket: "angelchat41m.appspot.com",
+    messagingSenderId: "454366224825",
+    appId: "1:454366224825:web:9406315952cf35f3fb5668"
 });
